@@ -2,7 +2,7 @@ build
 *.o
 *.a
 makefile
-build.h
+build/build.h
 kissat
 tissat
 *.gcno
